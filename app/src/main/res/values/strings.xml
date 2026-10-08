@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teclado Inteligente</string>
+    <string name="accessibility_service_label">Assistente Teclado Inteligente (IA)</string>
+    <string name="accessibility_service_description">Permite ao Teclado Inteligente ler o campo de texto ativo e substituir com melhorias, traduções e correções geradas pelo Gemini sem precisar selecionar o texto manualmente.</string>
+</resources>

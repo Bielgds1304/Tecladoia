@@ -1,0 +1,6 @@
+{
+  "name": "Teclado Inteligente",
+  "description": "Assistente de IA com Gemini sobreposto ao teclado para correção, expansão, tradução e gatilhos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
